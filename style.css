@@ -1,0 +1,50 @@
+﻿body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+
+canvas {
+  border: solid 1px black;
+  cursor: pointer;
+}
+
+.wrapper {
+  margin: auto;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.counter {
+  display: inline-block;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: auto;
+}
+
+td,
+th {
+  border: solid black 1px;
+  min-width: 60px;
+  padding: 4px;
+  text-align: center;
+  color: white;
+}
+
+td:nth-child(odd),
+th:nth-child(odd) {
+  background: rgb(72, 72, 69);
+}
+
+td:nth-child(even),
+th:nth-child(even) {
+  background: rgb(78, 99, 144);
+}
