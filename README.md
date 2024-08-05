@@ -2,7 +2,7 @@
 
 Welcome to the **Natural Selection Simulator**! This project is a simple simulation of natural selection using HTML5 Canvas. Watch as green dots (males) and pink dots (females) attempt to survive and reproduce while avoiding a deadly red dot (predator). With each generation, the targets evolve and develop better strategies to evade the predator.
 
-![image](https://github.com/user-attachments/assets/c1665dd7-10c6-4881-a37a-55fda27e2178)
+![image](https://github.com/user-attachments/assets/99175a9d-251f-493e-9765-4c10532de1da)
 
 ## Features
 
